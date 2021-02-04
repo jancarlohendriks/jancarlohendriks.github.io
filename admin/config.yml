@@ -1,0 +1,5 @@
+backend:
+  name: git-gateway
+  repo: jancarlohendriks/jancarlohendriks.github.io
+
+media_folder: "images/uploads"
